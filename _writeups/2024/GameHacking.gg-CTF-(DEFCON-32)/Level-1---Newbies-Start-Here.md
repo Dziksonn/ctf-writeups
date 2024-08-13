@@ -3,7 +3,7 @@ layout: writeup
 category: GameHacking.gg-CTF-(DEFCON-32)
 chall_description: T
 points: 100
-solves: 50
+solves:
 tags: unity cheat-engine
 date: 2024-08-12
 comments: true
@@ -26,4 +26,7 @@ Second one is value that we are looking for, double click on it to move it to bo
 
 And we have our Flag, pick it up, click `I` to open inventory, and there it is.
 `GHCTF{this_is_the_first_flag_woot}`
+
+
+[Jump to next one](./Level-2.html)
 

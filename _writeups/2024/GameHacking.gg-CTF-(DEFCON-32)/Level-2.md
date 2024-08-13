@@ -3,7 +3,7 @@ layout: writeup
 category: GameHacking.gg-CTF-(DEFCON-32)
 chall_description: T
 points: 200
-solves: 50
+solves:
 tags: unity cheat-engine
 date: 2024-08-12
 comments: true
@@ -23,3 +23,4 @@ Let's move them all to bottom, and click active box next to them. And now we hav
 Unicorn killed, and we have flag `GHCTF{oops_sorry_mr_unicorn}`.
 
 
+[Jump to next one](./Level-3.html)

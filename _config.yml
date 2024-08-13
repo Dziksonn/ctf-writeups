@@ -3,7 +3,7 @@ remote_theme: CaptainIRS/hacker-plus-theme
 title: CTF Writeups
 author: Dziks0nn
 description:
-disqus_forum_shortname:
+disqus_forum_shortname: dziksonn-ctf-writeups
 google_site_verification_content: # The 'content' tag for site verification
 google_analytics: # Your Google Analytics Tracking ID
 
